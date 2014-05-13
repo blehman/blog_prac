@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Datas</title><link href="http://BlogPrac.com/" rel="alternate"></link><link href="http://BlogPrac.com/feeds/math.atom.xml" rel="self"></link><id>http://BlogPrac.com/</id><updated>2013-12-12T23:10:00+01:00</updated><entry><title>Math is Fun!</title><link href="http://BlogPrac.com/GUYS-first-post.html" rel="alternate"></link><updated>2013-12-12T23:10:00+01:00</updated><author><name>Justin Vincent</name></author><id>tag:BlogPrac.com,2013-12-12:GUYS-first-post.html</id><summary type="html">&lt;p&gt;So there is this little thing I've been working on:&lt;/p&gt;
+&lt;p&gt;$I = 2 \pi i \frac{\exp(\tfrac{\pi i}{4})}{-1+i} \left(\frac{17}{4} - 5^{\frac{3}{4}} 2^{\frac{1}{4}} \right) = 2 \pi 2^{-\frac{1}{2}} \left(\frac{17}{4} - 5^{\frac{3}{4}} 2^{\frac{1}{4}} \right)$&lt;/p&gt;
+&lt;p&gt;And also this little ditty&lt;/p&gt;
+&lt;p&gt;\begin{eqnarray} 
+y &amp;amp;=&amp;amp; a x^4 + 4       \\
+  &amp;amp;=&amp;amp; (\alpha^2+2\gamma)^2 -4x^2  \\
+  &amp;amp;\le&amp;amp; \sum_{i=0}^{200} i^i
+\end{eqnarray} &lt;/p&gt;</summary></entry></feed>
